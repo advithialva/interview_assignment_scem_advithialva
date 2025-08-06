@@ -1,4 +1,4 @@
-# Interview Assignment – Task 2
+# BELC Interview Assignment – Task 2
 
 **Name:** Advithi Alva  
 **College:** Sahyadri College of Engineering and Management (SCEM)  
